@@ -13,7 +13,9 @@ According to your OS, install appropriate library for OpenGL and OpenGL utility.
 
 You may need to edit the Makefile.
 
-
+## Inspiration
+This micro game is inspired by a great Amiga classic game "Gravity Wars", created by Ed Bartz.
+https://www.youtube.com/watch?v=Vc_ILtL260s
 
 
 
